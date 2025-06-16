@@ -1,3 +1,8 @@
-this work was aimed to evaluate uncertainties between larg-scale data sets in extreme precipitations events
-In Example_Workflow.ipynb is the process apply for a case to obtain plot and Taylor diagram
-In Final.ipynb is the process to obtain the final general plot and statistic
+# Evaluation of Uncertainties in Extreme Precipitation Events
+
+This repository evaluates uncertainties among large-scale precipitation datasets during extreme precipitation events.
+
+## Repository Structure
+
+* Example_Workflow.ipynb: shows the analysis process for a single extreme event, including statistical metric calculations and Taylor diagram generation.
+* Final.ipynb: Provides the analysis across all events, generating final summary plots and comprehensive statistics.
