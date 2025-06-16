@@ -1,4 +1,4 @@
-# Evaluation of Uncertainties in Extreme Precipitation Events
+# Uncertainties in large-scale precipitation data sets during five recent European extreme events
 
 This repository evaluates uncertainties among large-scale precipitation datasets during extreme precipitation events.
 
